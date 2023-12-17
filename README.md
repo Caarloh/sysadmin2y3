@@ -8,4 +8,4 @@ para descomprimir:
   sudo unzip main.zip
 
 Si quieres el docker compose utiliza:
-  sudo mv sysadmin2y3-main/docker/ <tu-direccion>/
+  sudo mv sysadmin2y3-main/docker/ tu-direccion/
