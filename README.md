@@ -1,6 +1,6 @@
 # Para obtener desde consola
 
-Para descargar la rama como un .zip
+Para descargar la rama como un .zip:
   sudo wget https://github.com/Caarloh/sysadmin2y3/archive/main.zip
 
 Asegurate de tener instalado unzip en tu instancia
