@@ -61,4 +61,3 @@ sudo docker-compose up -d
 Lista de recursos de este proyecto:
 * [docker installation](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 * [docker-compose.yml](https://github.com/jmlcas/Docker-WordPress-SSL/tree/main)
-
